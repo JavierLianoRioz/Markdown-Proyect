@@ -1,4 +1,3 @@
-
 <style>
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
@@ -6,7 +5,6 @@ h2 {
         font-family: "PT Mono", monospace;
     }
 </style>
-
 
 # ¡Encantado! 👋
 
@@ -26,9 +24,16 @@ Legalmente soy Javier Liaño, aunque suelo ser llamado por mi apodo "Midas". Act
 |Hito|Información|
 |-|-|
 |Construí mi ordenador|De pequeño, con ayuda de mi padre compuse un ordenador comprado por partes, actualmente es el que utilizo y estoy muy orgulloso de él.|
-|||
+| Fuí a clases de programación de pequeño| A los 8-9 años mis padres me apuntaron a unas clases de programación en Scratch y Arduino, además de clanes de creación de mods y mapas en Minecraft.|
+| Trabajé en un servidor de discord (no remunerado)| Entre otras cosas aprendí a utilizar markdown y APIs (como la de discord)|
 
 
 ## Proyectos Hechos.
 
-### 
+### Intento de juego idle clicker. 
+### "Chipeo" de una `nintendo switch` versión 2. 
+### Página web para un streamer (fan Art) 
+
+## Proyectos abiertos. 
+
+### Canal de youtube gestionado, grabado y editado por mi persona.
